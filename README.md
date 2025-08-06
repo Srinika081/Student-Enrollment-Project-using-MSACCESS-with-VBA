@@ -12,7 +12,6 @@ Components: Tables, Forms, Queries, Reports
 
 Data Handling: SQL queries and MS Access built-in functionality
 
-
 Database Structure
 Students Table – StudentID, Name, Gender, DOB, Phone, Email, EnrollmentDate, CourseID
 
