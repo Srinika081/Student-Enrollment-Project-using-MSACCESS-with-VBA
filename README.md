@@ -12,9 +12,11 @@ Components: Tables, Forms, Queries, Reports
 
 Data Handling: SQL queries and MS Access built-in functionality
 
-Database Structure
-Students Table – StudentID, Name, Gender, DOB, Phone, Email, EnrollmentDate, CourseID
+🗄 DATABASE STRUCTURE
 
-Courses Table – CourseID, CourseName, Duration, Fees
 
-Enrollments Table – EnrollmentID, StudentID, CourseID, EnrollmentDate
+Students Table – StudentID, Name, Gender, Phone, Email
+
+Courses enrolled Table – CourseID, CourseName, facultyID , FacultyName , Course joining date
+
+Enrollments Table – EnrollmentID, StudentID, payment ,status , Total fee
